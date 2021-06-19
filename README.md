@@ -1,4 +1,6 @@
-# Prime Number Checker
+# Slider-Video Player
+Flutter app which provides a slider and video player for videos.
+
 
 A new Flutter project.
 
